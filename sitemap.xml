@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rnr415.github.io/blog/public/</loc>
+    <loc>https://rnr415.github.io/blog/</loc>
     <lastmod>2022-06-12T20:20:12+05:30</lastmod>
   </url><url>
-    <loc>https://rnr415.github.io/blog/public/post/</loc>
+    <loc>https://rnr415.github.io/blog/post/</loc>
     <lastmod>2022-06-12T20:19:12+05:30</lastmod>
   </url><url>
-    <loc>https://rnr415.github.io/blog/public/post/my-second-post/</loc>
+    <loc>https://rnr415.github.io/blog/post/my-second-post/</loc>
     <lastmod>2022-06-12T20:12:10+05:30</lastmod>
   </url><url>
-    <loc>https://rnr415.github.io/blog/public/post/my-first-post/</loc>
+    <loc>https://rnr415.github.io/blog/post/my-first-post/</loc>
     <lastmod>2022-06-11T20:14:37+05:30</lastmod>
   </url><url>
-    <loc>https://rnr415.github.io/blog/public/categories/</loc>
+    <loc>https://rnr415.github.io/blog/categories/</loc>
   </url><url>
-    <loc>https://rnr415.github.io/blog/public/tags/</loc>
+    <loc>https://rnr415.github.io/blog/tags/</loc>
   </url>
 </urlset>
